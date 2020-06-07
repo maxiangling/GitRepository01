@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 这是修改的文件 远程仓库进行修改 本地仓库修改1
+=======
+这是修改的文件 远程仓库进行修改
+远程仓库修改2
+>>>>>>> branch 'master' of https://github.com/maxiangling/GitRepository01.git
